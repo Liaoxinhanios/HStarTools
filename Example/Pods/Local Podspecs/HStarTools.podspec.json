@@ -1,0 +1,22 @@
+{
+  "name": "HStarTools",
+  "version": "0.1.0",
+  "summary": "A short description of HStarTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Liaoxinhanios/HStarTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Liaoxinhanios": "liaoxinhan@leelen.cno"
+  },
+  "source": {
+    "git": "https://github.com/Liaoxinhanios/HStarTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HStarTools/Classes/**/*"
+}
